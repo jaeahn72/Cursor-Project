@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sid & Teddy's Journey AI - Beta 1.0
 
 여행 계획부터 숙소, 맛집까지 모든 것을 도와주는 AI 여행 도우미 서비스입니다.
@@ -71,3 +72,7 @@ streamlit run app.py
 ## 연락처
 
 문의사항이나 버그 리포트는 Issues 탭을 이용해 주세요. 
+=======
+# Cursor-Project
+cursor통한 프로젝트 저장
+>>>>>>> 7c8cc24efab6d0483145362a37e42640fe201148
